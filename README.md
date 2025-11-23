@@ -1,16 +1,35 @@
-## Hi there 👋
+# Bernardo Raposo 👾
 
-<!--
-**BernardoRaposo/BernardoRaposo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hey, I'm Bernardo — full-stack developer based in Switzerland.  
+I build clean, fast, production-ready web apps with **Next.js · React · Tailwind · MongoDB · Vercel**.
 
-Here are some ideas to get you started:
+### Live Projects
+- **DomainFlux** – lightning-fast domain analytics dashboard (private beta)  
+- **WinePal** – AI-powered wine pairing from your photo  
+- **OpenStock**, **PolyFlip**, and more → [bernardo-raposo.com](https://bernardo-raposo.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Creator of AOS Protocol
+I shipped the first `.well-known/agent` specification that makes any website instantly usable by AI agents — no scraping, no breaking.
+
+Live example: my portfolio is the first fully agent-native site on the internet  
+https://bernardo-raposo.com/.well-known/agent  
+Spec & examples → https://github.com/AOS-sh/aos-protocol
+
+Ask any AI right now:  
+“Show me bernardo-raposo.com projects”  
+“Email bernardo-raposo.com about a role in 2026”  
+It just works™
+
+### Open to opportunities
+Available for full-time or contract work from early 2026  
+Switzerland-based • Remote-friendly • Passionate about developer tools, AI-native experiences, and beautiful code
+
+### Elsewhere
+- Portfolio → https://bernardo-raposo.com  
+- Twitter → https://twitter.com/sir__fox  
+- Email → Try an agent 😉
+
+Always shipping. Always learning.  
+Let’s build the next thing together
+
+*Last updated November 2025*
