@@ -1,35 +1,51 @@
-# Bernardo Raposo 👾
+# Bernardo Raposo 
 
-👋 Hey, I'm Bernardo — full-stack developer based in Switzerland.  
-I build clean, fast, production-ready web apps with **Next.js · React · Tailwind · MongoDB · Vercel**.
+Entrepreneur and builder. Born in Lisbon, based in Zurich.  
+I start companies, back founders, and ship products that shouldn't exist yet.
 
-### Live Projects
-- **DomainFlux** – lightning-fast domain analytics dashboard (private beta)  
-- **WinePal** – AI-powered wine pairing from your photo  
-- **OpenStock**, **PolyFlip**, and more → [bernardo-raposo.com](https://bernardo-raposo.com)
+Currently building [Vulpes](https://vulpesindustries.online) — AI integration for SMEs worldwide —  
+and [ULTRA](https://ultraproducoes.online), a media company in Portugal.
 
-### Creator of AOS Protocol
-I shipped the first `.well-known/agent` specification that makes any website instantly usable by AI agents — no scraping, no breaking.
+---
 
-Live example: my portfolio is the first fully agent-native site on the internet  
-https://bernardo-raposo.com/.well-known/agent  
-Spec & examples → https://github.com/AOS-sh/aos-protocol
+## Active
 
-Ask any AI right now:  
-“Show me bernardo-raposo.com projects”  
-“Email bernardo-raposo.com about a role in 2026”  
+| Project | What it is |
+|---|---|
+| [Vulpes](https://vvulpesindustries.online) | AI-driven solutions for SMEs around the world |
+| [ULTRA](https://ultraproducoes.online) | Media company · Portugal |
+| [usebase.tech](https://usebase.tech) | Research into prefab housing as an answer to the housing crisis |
+| [runaos.online](https://runaos.online) | Research project studying AI agents |
+
+---
+
+## AOS Protocol
+
+I shipped the first `.well-known/agent` specification — a standard that makes  
+any website instantly readable by AI agents. No scraping. No APIs. No breaking.
+
+```
+GET https://bernardo-raposo.com/.well-known/agent
+```
+
+Try it right now:
+> *"Show me bernardo-raposo.com projects"*  
+> *"Email bernardo-raposo.com about a collaboration"*
+
 It just works™
 
-### Open to opportunities
-Available for full-time or contract work from early 2026  
-Switzerland-based • Remote-friendly • Passionate about developer tools, AI-native experiences, and beautiful code
+→ [Spec & examples](https://github.com/AOS-sh/aos-protocol)
 
-### Elsewhere
-- Portfolio → https://bernardo-raposo.com  
-- Twitter → https://twitter.com/sir__fox  
-- Email → Try an agent 😉
+---
 
-Always shipping. Always learning.  
-Let’s build the next thing together
+## Past
 
-*Last updated November 2025*
+**MyGenets** — biotech company, Brazil (2019)  
+**Banco Gamer** — angel investment, Brazil (2019) · acquired by Banco Itaú  
+[usewinepal.shop](https://usewinepal.shop) · [usenora.online](https://usenora.online) · [userepoglow.online](https://userepoglow.online)
+
+---
+
+## Elsewhere
+
+[bernardo-raposo.com](https://bernardoraposo.online) · [x.com/sir__fox](https://x.com/sir__fox) · [LinkedIn](https://www.linkedin.com/in/bernardo-raposo-4b7357359/)
